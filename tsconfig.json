@@ -1,0 +1,12 @@
+{
+ 
+  "extends": "../../packages/tsconfig/cra.json",
+  "include": [
+    "**/*.ts",
+    "**/*.tsx"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+
+}
